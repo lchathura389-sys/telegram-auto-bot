@@ -1,4 +1,3 @@
-python-telegram-bot
-requests
-feedparser
-flask
+ccxt
+pandas
+pandas_ta
