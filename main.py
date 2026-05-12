@@ -7,14 +7,14 @@ import asyncio
 import time
 
 # ===== SETTINGS =====
-TELEGRAM_TOKEN = "8620001412:AAGg3cJTeyy-iR8xkEz-CDHuRyw94C0V0ic"
-CHAT_ID = "5180250509"
+TELEGRAM_TOKEN = "8655142333:AAFTVI-kKOX6SC5ec58yfhtMSC959np2AGw"
+CHAT_ID = "8655142333"
 
 SYMBOL = "XAUUSD"
 TIMEFRAME = "15m"
 
 # ===== TELEGRAM =====
-bot = Bot(token=8620001412:AAGg3cJTeyy-iR8xkEz-CDHuRyw94C0V0ic)
+bot = Bot(token=8655142333:AAFTVI-kKOX6SC5ec58yfhtMSC959np2AGw)
 
 # ===== GET MARKET DATA =====
 def get_data():
